@@ -9,7 +9,7 @@
 Источник данных: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
 
 ## Описание данных 
-##№ Признаки
+### Признаки
 - RowNumber — индекс строки в данных
 - CustomerId — уникальный идентификатор клиента
 - Surname — фамилия
@@ -23,7 +23,7 @@
 - HasCrCard — наличие кредитной карты
 - IsActiveMember — активность клиента
 - EstimatedSalary — предполагаемая зарплата
-##№ Целевой признак
+### Целевой признак
 - Exited — факт ухода клиента
 
 - <h1>Содержание<span class="tocSkip"></span></h1>
